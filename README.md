@@ -1,4 +1,4 @@
-# XR-archaeology-server
+# AR-archaeology-server
 
 This contains the backend for [Sharing the Past](https://github.com/Humen-debug/XR-archaeology-app/tree/main) and an admin panel that allows Ararat Plain Southeast Archaeological Project (APSAP) team members to manage the app.
 
